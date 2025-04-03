@@ -1,0 +1,19 @@
+# Byte-compiled / intermediate files
+__pycache__/
+*.py[cod]
+*.swp
+
+# Virtual Environment
+venv/
+env/
+
+# Logs and local environment files
+*.log
+.env
+.env.local
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
